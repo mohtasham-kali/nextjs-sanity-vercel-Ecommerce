@@ -321,21 +321,15 @@ Huge ups to the following talented and rad folks who helped in countless ways. T
 ### Developers
 
 - 🔥 [@tuckercs](https://github.com/tuckercs)
-- 🍝 [@iamkevingreen](https://github.com/iamkevingreen)
-- 🧈 [@mikehwagz](https://github.com/mikehwagz)
-- 😎 [@dictions](https://github.com/dictions)
+- 😎 [@Linux](https://github.com/mohtasham-kali)
 
 ### Designers
 
-- [@thecollectedworks](https://www.instagram.com/thecollectedworks/)
-- [@joyntnotjoint](https://www.instagram.com/joyntnotjoint/)
+- [@thecollectedworks](https://instagram.com/wickygenius?igshid=NjIwNzIyMDk2Mg==)
+- [@joyntnotjoint](https://instagram.com/mohtasham.siddiqui70?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 
-<br />
 
-# 🤝 License
+### Websites
 
-### [MIT](LICENSE)
-
-> [nickdimatteo.com](https://nickdimatteo.com) &nbsp;&middot;&nbsp;
-> Github [@ndimatteo](https://github.com/ndimatteo) &nbsp;&middot;&nbsp;
-> Instagram [@ndimatteo](https://instagram.com/ndimatteo)
+- [@thecollectedworks](https://wickygenius.com/)
+- [@joyntnotjoint](https://itsoftdevsol.tk/)
