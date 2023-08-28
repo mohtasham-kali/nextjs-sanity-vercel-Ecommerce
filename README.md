@@ -320,16 +320,16 @@ Huge ups to the following talented and rad folks who helped in countless ways. T
 
 ### Developers
 
-- 🔥 [@tuckercs](https://github.com/tuckercs)
+- 🔥 [@tuckercs]()
 - 😎 [@Linux](https://github.com/mohtasham-kali)
 
 ### Designers
 
-- [@thecollectedworks](https://instagram.com/wickygenius?igshid=NjIwNzIyMDk2Mg==)
-- [@joyntnotjoint](https://instagram.com/mohtasham.siddiqui70?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
+- [@wickygenius](https://instagram.com/wickygenius?igshid=NjIwNzIyMDk2Mg==)
+- [@mohtasham](https://instagram.com/mohtasham.siddiqui70?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 
 
 ### Websites
 
-- [@thecollectedworks](https://wickygenius.com/)
-- [@joyntnotjoint](https://itsoftdevsol.tk/)
+- [@wickygenius](https://wickygenius.com/)
+- [@itsoftdevsolutions](https://itsoftdevsol.tk/)
