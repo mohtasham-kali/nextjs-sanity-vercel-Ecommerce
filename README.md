@@ -320,7 +320,7 @@ Huge ups to the following talented and rad folks who helped in countless ways. T
 
 ### Developers
 
-- 🔥 [@tuckercs]()
+- 🔥 [@wickygenius](https://github.com/wicky85)
 - 😎 [@Linux](https://github.com/mohtasham-kali)
 
 ### Designers
